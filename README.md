@@ -1,1 +1,2 @@
-# JUICE-VLB
+# MC_Juice verifier leaderboard
+:)
